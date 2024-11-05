@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edaqoino.github.io/QnT/sitemap_index.txt
+Sitemap: https://edaqoino.github.io/VLd/sitemap_index.txt
+Sitemap: https://edaqoino.github.io/ctL/sitemap_index.txt
+Sitemap: https://edaqoino.github.io/nxo/sitemap_index.txt
